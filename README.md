@@ -6,6 +6,6 @@
 - 📫 How to reach me: https://www.linkedin.com/in/astritmaliku/ ||  astritmaliku@yahoo.com
 - ⚡ Fun fact:NodeJS is a single-threaded language...
 
-![{Astrit's} || My GitHub stats](https://github-readme-stats.vercel.app/api?username=astrit11&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![{Astrit's} || My GitHub stats](https://github-readme-stats.vercel.app/api?username=astrit11&show_icons=false&theme=radical&count_private=true&include_all_commits=true)
 ###
  
