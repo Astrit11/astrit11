@@ -10,7 +10,6 @@
  <div id="header" align="center">
    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
  </div>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astrit11)]
- 
+ ![Astrit's GitHub stats](https://github-readme-stats.vercel.app/api?username=astrit11&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)
 ###
  
