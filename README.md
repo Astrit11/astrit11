@@ -11,7 +11,7 @@
    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
  </div>
  
-![{Astrit's} || My GitHub stats](https://github-readme-stats.vercel.app/api?username=astrit11&theme=dark)
+![{Astrit's} || My GitHub stats](https://github-readme-stats.vercel.app/api?username=astrit11&theme=dark&include_all_commits=true&count_private=true)
 
 ###
  
